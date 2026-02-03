@@ -20,8 +20,12 @@ matplotlib
 
 ## Visualizations
 
-### Average Marks by Subject
-![Average Marks](plots/average_marks_by_subject.png)
+### 1. Subject-wise Average Marks
+![Average Marks by Subject](plots/average_marks_by_subject.png)
 
-### Attendance vs Performance
+### 2. Overall Average Marks
+![Overall Average Marks](plots/average_marks.png)
+
+### 3. Attendance vs Performance
 ![Attendance vs Score](plots/attendance_vs_score.png)
+
